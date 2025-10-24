@@ -1,10 +1,5 @@
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.205.27:1338
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.206.129:1338
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.200.77:1338
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.197.162:1338
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.194.126:1338
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.198.64:1338
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.197.66:1338
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.202.21:1338
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.199.166:1338
-http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.192.223:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.193.180:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.202.117:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.201.186:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.201.25:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.199.99:1338
