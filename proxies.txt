@@ -1,1 +1,8 @@
-#Add your proxies below in each line in the format protocol://username:password@ip:port or protocol://ip:port
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.205.27:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.206.129:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.200.77:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.197.162:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.194.126:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.198.64:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.197.66:1338
+http://lakraae0ceJ:Y8RihDIlPYcNzhk@156.239.202.21:1338
