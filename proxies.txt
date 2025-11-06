@@ -1,10 +1,4 @@
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.215.157:1338
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.214.196:1338
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.215.188:1338
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.223.32:1338
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.222.97:1338
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.220.4:1338
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.223.191:1338
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.209.75:1338
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.217.149:1338
-http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.216.195:1338
+http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.210.108:1338
+http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.217.216:1338
+http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.223.33:1338
+http://lindazavelAJWZ:lSDfSHbwRm74siV@156.239.223.182:1338
